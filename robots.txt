@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-khh192.jambul126.online/sitemap.xml
